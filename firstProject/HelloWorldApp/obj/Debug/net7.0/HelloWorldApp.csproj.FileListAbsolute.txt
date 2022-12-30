@@ -1,0 +1,15 @@
+/home/monster/dotNet/lab/firstProject/HelloWorldApp/obj/Debug/net7.0/HelloWorldApp.csproj.AssemblyReference.cache
+/home/monster/dotNet/lab/firstProject/HelloWorldApp/obj/Debug/net7.0/HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/monster/dotNet/lab/firstProject/HelloWorldApp/obj/Debug/net7.0/HelloWorldApp.AssemblyInfoInputs.cache
+/home/monster/dotNet/lab/firstProject/HelloWorldApp/obj/Debug/net7.0/HelloWorldApp.AssemblyInfo.cs
+/home/monster/dotNet/lab/firstProject/HelloWorldApp/obj/Debug/net7.0/HelloWorldApp.csproj.CoreCompileInputs.cache
+/home/monster/dotNet/lab/firstProject/HelloWorldApp/bin/Debug/net7.0/HelloWorldApp
+/home/monster/dotNet/lab/firstProject/HelloWorldApp/bin/Debug/net7.0/HelloWorldApp.deps.json
+/home/monster/dotNet/lab/firstProject/HelloWorldApp/bin/Debug/net7.0/HelloWorldApp.runtimeconfig.json
+/home/monster/dotNet/lab/firstProject/HelloWorldApp/bin/Debug/net7.0/HelloWorldApp.dll
+/home/monster/dotNet/lab/firstProject/HelloWorldApp/bin/Debug/net7.0/HelloWorldApp.pdb
+/home/monster/dotNet/lab/firstProject/HelloWorldApp/obj/Debug/net7.0/HelloWorldApp.dll
+/home/monster/dotNet/lab/firstProject/HelloWorldApp/obj/Debug/net7.0/refint/HelloWorldApp.dll
+/home/monster/dotNet/lab/firstProject/HelloWorldApp/obj/Debug/net7.0/HelloWorldApp.pdb
+/home/monster/dotNet/lab/firstProject/HelloWorldApp/obj/Debug/net7.0/HelloWorldApp.genruntimeconfig.cache
+/home/monster/dotNet/lab/firstProject/HelloWorldApp/obj/Debug/net7.0/ref/HelloWorldApp.dll

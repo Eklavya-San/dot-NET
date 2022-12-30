@@ -1,0 +1,15 @@
+/home/monster/dotNet/lab/secondProject/bin/Debug/net7.0/secondProject
+/home/monster/dotNet/lab/secondProject/bin/Debug/net7.0/secondProject.deps.json
+/home/monster/dotNet/lab/secondProject/bin/Debug/net7.0/secondProject.runtimeconfig.json
+/home/monster/dotNet/lab/secondProject/bin/Debug/net7.0/secondProject.dll
+/home/monster/dotNet/lab/secondProject/bin/Debug/net7.0/secondProject.pdb
+/home/monster/dotNet/lab/secondProject/obj/Debug/net7.0/secondProject.csproj.AssemblyReference.cache
+/home/monster/dotNet/lab/secondProject/obj/Debug/net7.0/secondProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/monster/dotNet/lab/secondProject/obj/Debug/net7.0/secondProject.AssemblyInfoInputs.cache
+/home/monster/dotNet/lab/secondProject/obj/Debug/net7.0/secondProject.AssemblyInfo.cs
+/home/monster/dotNet/lab/secondProject/obj/Debug/net7.0/secondProject.csproj.CoreCompileInputs.cache
+/home/monster/dotNet/lab/secondProject/obj/Debug/net7.0/secondProject.dll
+/home/monster/dotNet/lab/secondProject/obj/Debug/net7.0/refint/secondProject.dll
+/home/monster/dotNet/lab/secondProject/obj/Debug/net7.0/secondProject.pdb
+/home/monster/dotNet/lab/secondProject/obj/Debug/net7.0/secondProject.genruntimeconfig.cache
+/home/monster/dotNet/lab/secondProject/obj/Debug/net7.0/ref/secondProject.dll
