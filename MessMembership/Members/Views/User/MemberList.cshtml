@@ -1,0 +1,44 @@
+@{
+    ViewData["Title"] = "MemberList! ";
+}
+<style>
+table{
+    text-align: left;
+    border-radius: 2px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 10px;
+    background-color: bisque;
+
+}
+
+
+</style>
+<div>
+    <h1>Current Member List!</h1>
+    @{
+        List <Member> m1 = (List<Member>)ViewData["Catalog"];
+            
+            <table >
+            <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Email</th>
+            <th>Gender</th>
+            <th>phoneNumber</th>
+            <th>Duration</th>
+            </tr>
+        @foreach(Member it in m1){
+            <tr>
+            <td>@it.FirstName</td>
+            <td>@it.LastName</td>
+            <td>@it.Email</td>
+            <td>@it.Gender</td>
+            <td>@it.PhoneNumber</td>
+            <td>@it.Duration</td>
+            </tr>
+        }
+            </table>  
+
+    }
+</div>

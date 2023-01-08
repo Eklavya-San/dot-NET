@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/monster/dotNet/lab/day9/What/What.csproj": {}
+    "/home/monster/dotNet/lab/dot-NET/day9/What/What.csproj": {}
   },
   "projects": {
-    "/home/monster/dotNet/lab/day9/What/What.csproj": {
+    "/home/monster/dotNet/lab/dot-NET/day9/What/What.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/monster/dotNet/lab/day9/What/What.csproj",
+        "projectUniqueName": "/home/monster/dotNet/lab/dot-NET/day9/What/What.csproj",
         "projectName": "What",
-        "projectPath": "/home/monster/dotNet/lab/day9/What/What.csproj",
+        "projectPath": "/home/monster/dotNet/lab/dot-NET/day9/What/What.csproj",
         "packagesPath": "/home/monster/.nuget/packages/",
-        "outputPath": "/home/monster/dotNet/lab/day9/What/obj/",
+        "outputPath": "/home/monster/dotNet/lab/dot-NET/day9/What/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/monster/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jw5hfuNueclMBJrH4UpttWYnbjlRBPg84sakgxn+sMxnCpDt7zng9zAI/ouJWFYoGOTnZyv1g2RF/htVicW2xw==",
+  "dgSpecHash": "lBp7rddWP6WljeFC2oQiWvvVHDIEGOMTs1d/JPF3L9Ee1EzhYN2zy9P3zQUkNaerMMYau0U8st28Z7COwxMKzQ==",
   "success": true,
-  "projectFilePath": "/home/monster/dotNet/lab/day9/What/What.csproj",
+  "projectFilePath": "/home/monster/dotNet/lab/dot-NET/day9/What/What.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
