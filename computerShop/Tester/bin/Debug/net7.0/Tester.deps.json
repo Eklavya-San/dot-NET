@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Tester/1.0.0": {
+        "dependencies": {
+          "Catlog": "1.0.0"
+        },
+        "runtime": {
+          "Tester.dll": {}
+        }
+      },
+      "Catlog/1.0.0": {
+        "runtime": {
+          "Catlog.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tester/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Catlog/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

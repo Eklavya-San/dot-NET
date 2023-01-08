@@ -1,0 +1,12 @@
+/home/monster/dotNet/lab/computerShop/Catlog/obj/Debug/net7.0/Catlog.csproj.AssemblyReference.cache
+/home/monster/dotNet/lab/computerShop/Catlog/obj/Debug/net7.0/Catlog.GeneratedMSBuildEditorConfig.editorconfig
+/home/monster/dotNet/lab/computerShop/Catlog/obj/Debug/net7.0/Catlog.AssemblyInfoInputs.cache
+/home/monster/dotNet/lab/computerShop/Catlog/obj/Debug/net7.0/Catlog.AssemblyInfo.cs
+/home/monster/dotNet/lab/computerShop/Catlog/obj/Debug/net7.0/Catlog.csproj.CoreCompileInputs.cache
+/home/monster/dotNet/lab/computerShop/Catlog/bin/Debug/net7.0/Catlog.deps.json
+/home/monster/dotNet/lab/computerShop/Catlog/bin/Debug/net7.0/Catlog.dll
+/home/monster/dotNet/lab/computerShop/Catlog/bin/Debug/net7.0/Catlog.pdb
+/home/monster/dotNet/lab/computerShop/Catlog/obj/Debug/net7.0/Catlog.dll
+/home/monster/dotNet/lab/computerShop/Catlog/obj/Debug/net7.0/refint/Catlog.dll
+/home/monster/dotNet/lab/computerShop/Catlog/obj/Debug/net7.0/Catlog.pdb
+/home/monster/dotNet/lab/computerShop/Catlog/obj/Debug/net7.0/ref/Catlog.dll

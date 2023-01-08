@@ -1,0 +1,12 @@
+/home/monster/dotNet/lab/graphicSolution/Drawing/obj/Debug/net7.0/Drawing.csproj.AssemblyReference.cache
+/home/monster/dotNet/lab/graphicSolution/Drawing/obj/Debug/net7.0/Drawing.GeneratedMSBuildEditorConfig.editorconfig
+/home/monster/dotNet/lab/graphicSolution/Drawing/obj/Debug/net7.0/Drawing.AssemblyInfoInputs.cache
+/home/monster/dotNet/lab/graphicSolution/Drawing/obj/Debug/net7.0/Drawing.AssemblyInfo.cs
+/home/monster/dotNet/lab/graphicSolution/Drawing/obj/Debug/net7.0/Drawing.csproj.CoreCompileInputs.cache
+/home/monster/dotNet/lab/graphicSolution/Drawing/bin/Debug/net7.0/Drawing.deps.json
+/home/monster/dotNet/lab/graphicSolution/Drawing/bin/Debug/net7.0/Drawing.dll
+/home/monster/dotNet/lab/graphicSolution/Drawing/bin/Debug/net7.0/Drawing.pdb
+/home/monster/dotNet/lab/graphicSolution/Drawing/obj/Debug/net7.0/Drawing.dll
+/home/monster/dotNet/lab/graphicSolution/Drawing/obj/Debug/net7.0/refint/Drawing.dll
+/home/monster/dotNet/lab/graphicSolution/Drawing/obj/Debug/net7.0/Drawing.pdb
+/home/monster/dotNet/lab/graphicSolution/Drawing/obj/Debug/net7.0/ref/Drawing.dll

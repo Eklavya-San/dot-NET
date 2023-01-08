@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CenteralSystem/1.0.0": {
+        "dependencies": {
+          "Banks": "1.0.0",
+          "Goverment": "1.0.0"
+        },
+        "runtime": {
+          "CenteralSystem.dll": {}
+        }
+      },
+      "Banks/1.0.0": {
+        "dependencies": {
+          "Goverment": "1.0.0"
+        },
+        "runtime": {
+          "Banks.dll": {}
+        }
+      },
+      "Goverment/1.0.0": {
+        "runtime": {
+          "Goverment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CenteralSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Banks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Goverment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

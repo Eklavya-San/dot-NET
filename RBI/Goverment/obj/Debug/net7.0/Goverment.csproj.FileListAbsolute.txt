@@ -1,0 +1,12 @@
+/home/monster/dotNet/lab/RBI/Goverment/bin/Debug/net7.0/Goverment.deps.json
+/home/monster/dotNet/lab/RBI/Goverment/bin/Debug/net7.0/Goverment.dll
+/home/monster/dotNet/lab/RBI/Goverment/bin/Debug/net7.0/Goverment.pdb
+/home/monster/dotNet/lab/RBI/Goverment/obj/Debug/net7.0/Goverment.csproj.AssemblyReference.cache
+/home/monster/dotNet/lab/RBI/Goverment/obj/Debug/net7.0/Goverment.GeneratedMSBuildEditorConfig.editorconfig
+/home/monster/dotNet/lab/RBI/Goverment/obj/Debug/net7.0/Goverment.AssemblyInfoInputs.cache
+/home/monster/dotNet/lab/RBI/Goverment/obj/Debug/net7.0/Goverment.AssemblyInfo.cs
+/home/monster/dotNet/lab/RBI/Goverment/obj/Debug/net7.0/Goverment.csproj.CoreCompileInputs.cache
+/home/monster/dotNet/lab/RBI/Goverment/obj/Debug/net7.0/Goverment.dll
+/home/monster/dotNet/lab/RBI/Goverment/obj/Debug/net7.0/refint/Goverment.dll
+/home/monster/dotNet/lab/RBI/Goverment/obj/Debug/net7.0/Goverment.pdb
+/home/monster/dotNet/lab/RBI/Goverment/obj/Debug/net7.0/ref/Goverment.dll

@@ -1,0 +1,30 @@
+@{
+    ViewData["Title"] = "Employee List";
+}
+<h1>@ViewData["Title"]</h1>
+@{
+        <table>
+  <thead>
+    <tr>
+      <th>Id</th>
+      <th>First Name</th>
+      <th>Last Name</th>
+      <th>Email</th>
+      <th>Password</th>
+      <th>Contact Number</th>
+    </tr>
+  </thead>
+  <tbody>
+    @foreach(Student stud in studentList){
+        <th>@stud.Id</th>
+      <th>@stud.FirstName</th>
+      <th>@stud.LastName</th>
+      <th>@stud.Email</th>
+      <th>@stud.Password</th>
+      <th>@stud.ContactNumber</th>
+    }
+  </tbody>
+</table>
+
+}
+<p>This is employee List page</p>

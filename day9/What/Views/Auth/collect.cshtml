@@ -1,0 +1,32 @@
+
+@{
+    ViewData["Title" ]= "Congrats! Registration Successful!";
+}
+<div>
+    <h1>Congrats! Registration Successful!</h1>
+@{
+    List <student> s1 =(List<student>)ViewData["studentList"];
+    <table border=2px style="border:collapse">
+        <tr>
+            <th>RollNo</th>
+            <th>Name</th>
+            <th>UserName</th>
+            <th>Password</th>
+            <th>Location</th>
+            <th>Email</th>
+        </tr>
+        @if(s1!=null){
+        foreach(student stud in s1){
+        <tr>
+            <th>@stud.Name</th>
+            <th>@stud.RollNo</th>
+            <th>@stud.UserName</th>
+            <th>@stud.Password</th>
+            <th>@stud.Location</th>
+            <th>@stud.Email</th>
+        </tr>
+        }
+        }
+    </table>  
+}
+    

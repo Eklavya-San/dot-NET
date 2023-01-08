@@ -1,0 +1,15 @@
+/home/monster/dotNet/lab/practiceHelperClass/Helping/bin/Debug/net7.0/Helping
+/home/monster/dotNet/lab/practiceHelperClass/Helping/bin/Debug/net7.0/Helping.deps.json
+/home/monster/dotNet/lab/practiceHelperClass/Helping/bin/Debug/net7.0/Helping.runtimeconfig.json
+/home/monster/dotNet/lab/practiceHelperClass/Helping/bin/Debug/net7.0/Helping.dll
+/home/monster/dotNet/lab/practiceHelperClass/Helping/bin/Debug/net7.0/Helping.pdb
+/home/monster/dotNet/lab/practiceHelperClass/Helping/obj/Debug/net7.0/Helping.csproj.AssemblyReference.cache
+/home/monster/dotNet/lab/practiceHelperClass/Helping/obj/Debug/net7.0/Helping.GeneratedMSBuildEditorConfig.editorconfig
+/home/monster/dotNet/lab/practiceHelperClass/Helping/obj/Debug/net7.0/Helping.AssemblyInfoInputs.cache
+/home/monster/dotNet/lab/practiceHelperClass/Helping/obj/Debug/net7.0/Helping.AssemblyInfo.cs
+/home/monster/dotNet/lab/practiceHelperClass/Helping/obj/Debug/net7.0/Helping.csproj.CoreCompileInputs.cache
+/home/monster/dotNet/lab/practiceHelperClass/Helping/obj/Debug/net7.0/Helping.dll
+/home/monster/dotNet/lab/practiceHelperClass/Helping/obj/Debug/net7.0/refint/Helping.dll
+/home/monster/dotNet/lab/practiceHelperClass/Helping/obj/Debug/net7.0/Helping.pdb
+/home/monster/dotNet/lab/practiceHelperClass/Helping/obj/Debug/net7.0/Helping.genruntimeconfig.cache
+/home/monster/dotNet/lab/practiceHelperClass/Helping/obj/Debug/net7.0/ref/Helping.dll

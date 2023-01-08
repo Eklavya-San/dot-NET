@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/monster/dotNet/lab/RBI/CenteralSystem/CenteralSystem.csproj": {}
+  },
+  "projects": {
+    "/home/monster/dotNet/lab/RBI/Banks/Banks.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/monster/dotNet/lab/RBI/Banks/Banks.csproj",
+        "projectName": "Banks",
+        "projectPath": "/home/monster/dotNet/lab/RBI/Banks/Banks.csproj",
+        "packagesPath": "/home/monster/.nuget/packages/",
+        "outputPath": "/home/monster/dotNet/lab/RBI/Banks/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/monster/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/monster/dotNet/lab/RBI/Goverment/Goverment.csproj": {
+                "projectPath": "/home/monster/dotNet/lab/RBI/Goverment/Goverment.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/monster/dotNet/lab/RBI/CenteralSystem/CenteralSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/monster/dotNet/lab/RBI/CenteralSystem/CenteralSystem.csproj",
+        "projectName": "CenteralSystem",
+        "projectPath": "/home/monster/dotNet/lab/RBI/CenteralSystem/CenteralSystem.csproj",
+        "packagesPath": "/home/monster/.nuget/packages/",
+        "outputPath": "/home/monster/dotNet/lab/RBI/CenteralSystem/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/monster/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/monster/dotNet/lab/RBI/Banks/Banks.csproj": {
+                "projectPath": "/home/monster/dotNet/lab/RBI/Banks/Banks.csproj"
+              },
+              "/home/monster/dotNet/lab/RBI/Goverment/Goverment.csproj": {
+                "projectPath": "/home/monster/dotNet/lab/RBI/Goverment/Goverment.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/monster/dotNet/lab/RBI/Goverment/Goverment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/monster/dotNet/lab/RBI/Goverment/Goverment.csproj",
+        "projectName": "Goverment",
+        "projectPath": "/home/monster/dotNet/lab/RBI/Goverment/Goverment.csproj",
+        "packagesPath": "/home/monster/.nuget/packages/",
+        "outputPath": "/home/monster/dotNet/lab/RBI/Goverment/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/monster/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
