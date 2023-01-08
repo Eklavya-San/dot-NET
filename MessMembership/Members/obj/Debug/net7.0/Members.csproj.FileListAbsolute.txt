@@ -29,3 +29,4 @@
 /home/monster/dotNet/lab/dot-NET/MessMembership/Members/obj/Debug/net7.0/Members.pdb
 /home/monster/dotNet/lab/dot-NET/MessMembership/Members/obj/Debug/net7.0/Members.genruntimeconfig.cache
 /home/monster/dotNet/lab/dot-NET/MessMembership/Members/obj/Debug/net7.0/ref/Members.dll
+/home/monster/dotNet/lab/dot-NET/MessMembership/Members/bin/Debug/net7.0/members.json

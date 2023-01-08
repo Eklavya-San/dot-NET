@@ -32,12 +32,28 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/monster/dotNet/lab/dot-NET/MessMembership/Members/Views/User/ForgotPass.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9Gb3Jnb3RQYXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/monster/dotNet/lab/dot-NET/MessMembership/Members/Views/User/Form.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9Gb3JtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/monster/dotNet/lab/dot-NET/MessMembership/Members/Views/User/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/monster/dotNet/lab/dot-NET/MessMembership/Members/Views/User/LoginFailed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9Mb2dpbkZhaWxlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/monster/dotNet/lab/dot-NET/MessMembership/Members/Views/User/MemberList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9NZW1iZXJMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/monster/dotNet/lab/dot-NET/MessMembership/Members/Views/User/MemberPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9NZW1iZXJQYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/monster/dotNet/lab/dot-NET/MessMembership/Members/Views/User/Successful.cshtml]
