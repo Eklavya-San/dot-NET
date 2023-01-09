@@ -1,31 +1,37 @@
 # Layered Architecture 
 > WEBSITE, BLL (BUISNESS LOGIC LAYER), BOL (BUISNESS OBJECT LAYER)  , DAL (DATA ACCESS LAYER)
-> MiddleWare
 
->Router
+> #### Webserver 
 
-> Website
+> 1. MiddleWare
+
+> 2. Router
+- Controllers
+    >> Request,Response
+    action methods --> this will contact buisness logic layer
+
+
+> 3. Website
 - Configrations
 - Views
     >> UI
-- Controllers
-    >> Request,Response
+    Views are processed by view engine and will create responses
 
-> BLL
+> #### BLL
 - Buisness Logic
-> BOL
+> #### BOL
 - Entities 
     >> classes Containing entity blueprints
-> DAL
+> #### DAL
 - DB-Manager-class
 - CRUD operations
-> CLI
+> #### CLI
 > Libraries
 - odbc(Open data base connectivity)
-> RDBMS
+> #### RDBMS
 - tables
 - stored-procedures
 - triggers
 
-> Database engine 
+> #### Database engine 
 - DDL,DML,DCL,TCL
