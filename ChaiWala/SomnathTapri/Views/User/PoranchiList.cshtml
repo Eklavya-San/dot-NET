@@ -1,0 +1,44 @@
+@{
+    ViewData["Title"] = "List";
+}
+
+
+<style>
+    body{
+        background-color: bisque;
+
+    }
+    img{
+        align-items: left;
+        width: 300px;
+    }
+    </style>
+
+    <div>
+
+        @{
+            List Member m1 =(List<Member>) ViewData["PoranchiList"];
+        }
+
+        <table>
+            <tr>
+                <th>FullName</th>
+                <th>Email</th>
+                <th>PassWord</th>
+            </tr>
+            @foreach(Member  m in m1  ){
+                
+                <tr>
+                    <td>
+                        m1.fullName
+                    </td>
+                    <td>
+                        m1.email
+                    </td>
+                    <td>
+                        m1.passWord
+                    </td>
+                </tr>
+            }
+        </table>
+        </div>
