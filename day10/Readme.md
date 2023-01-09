@@ -1,7 +1,5 @@
 # Layered Architecture 
-{
-
-    __WEBSITE, BLL (BUISNESS LOGIC LAYER), BOL (BUISNESS OBJECT LAYER)  , DAL (DATA ACCESS LAYER)__
+    ### WEBSITE, BLL (BUISNESS LOGIC LAYER), BOL (BUISNESS OBJECT LAYER)  , DAL (DATA ACCESS LAYER)
 
     >Website{
         -Configrations{
