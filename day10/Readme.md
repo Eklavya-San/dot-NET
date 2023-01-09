@@ -1,7 +1,7 @@
 # Layered Architecture 
-    >WEBSITE, BLL (BUISNESS LOGIC LAYER), BOL (BUISNESS OBJECT LAYER)  , DAL (DATA ACCESS LAYER)
+    > WEBSITE, BLL (BUISNESS LOGIC LAYER), BOL (BUISNESS OBJECT LAYER)  , DAL (DATA ACCESS LAYER)
 
-    >Website
+    > Website
         -Configrations
         -Views
             UI
@@ -9,28 +9,25 @@
             Request,Response
 
 
-    >BLL{
+    > BLL{
         -Buisness Logic
 
-    >BOL
+    > BOL
         -Entities 
             classes Containing entity blueprints
 
-    >DAL
+    > DAL
         -DB-Manager-class{
         --CRUD operations
 
-    >CLI
-    >Libraries
+    > CLI
+    > Libraries
         -odbc(Open data base connectivity)
 
-    >RDBMS{
+    > RDBMS{
         -tables
         -stored-procedures
         -triggers
 
-    >Database engine 
+    > Database engine 
         -DDL,DML,DCL,TCL
-
-    
-}
