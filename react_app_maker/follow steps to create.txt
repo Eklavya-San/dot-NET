@@ -1,0 +1,59 @@
+//open mysql and copy paste:
+-------------------------------------------------------------------------------------------------
+
+alter user 'root'@'localhost' identified with mysql_native_password by 'password';
+DROP DATABASE IF EXISTS webapp;
+create database webapp;
+use webapp;
+create table Employee(
+Id int,
+Name varchar(100),
+Email varchar(100),
+Address varchar(100),
+Phone varchar(100));
+insert into Employee values(1,'Eklavya','eklavyaghodake@gmail.com','sangli','12214312');
+insert into Employee values(2,'lodha','ravetschoool@gmail.com','pune','1234789445');
+insert into Employee values(3,'ralols','wownow@gmail.com','kolhapur','9875465123');
+insert into Employee values(4,'shalllow','meowwowo@gmail.com','dhule','561261897');
+insert into Employee values(5,'ridhhi','rowlow@gmail.com','sangola','456612389');
+
+-------------------------------------------------------------------------------------------------
+
+//open create a folder and open it with cmd and copypaste:
+
+-------------------------------------------------------------------------------------------------
+dotnet new sln
+dotnet new react -o myapp
+dotnet sln add myapp/myapp.csproj
+cd myapp
+dotnet add package Microsoft.EntityFrameworkCore --version 5.0.17
+dotnet add package Microsoft.EntityFrameworkCore.Design --version 5.0.17
+dotnet add package MySql.EntityFrameworkCore --version 5.0.17+MySQL8.0.31
+dotnet tool install --global dotnet-ef
+dotnet ef dbcontext scaffold "server=localhost;user id=root;password=root123;database=webapp" MySql.EntityFrameworkCore -o Models
+-------------------------------------------------------------------------------------------------
+
+//open program.cs in 
+//1st line write : 
+-------------------------------------------------------------------------------------------------
+	using myapp.Models;
+-------------------------------------------------------------------------------------------------
+6th line write:
+-------------------------------------------------------------------------------------------------
+	builder.Services.AddDbContext<webappContext>();
+-------------------------------------------------------------------------------------------------
+
+//paste EmployeeController.cs in controller folder 
+
+//Replace app.js and index.js in client/src with given app.js and index.js
+
+//open client/src/setupProxy.js 
+//8th line after /weatherForecase write:
+-------------------------------------------------------------------------------------------------
+	"/api/employee"
+-------------------------------------------------------------------------------------------------
+//run app type run command in terminal
+-------------------------------------------------------------------------------------------------
+	dotnet run
+-------------------------------------------------------------------------------------------------
+
